@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">DOBCalc</string>
+    <string name="lightGray">Selected Date</string>
+</resources>
